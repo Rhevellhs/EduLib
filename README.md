@@ -4,7 +4,7 @@ Project Database design
 
 
 
-
+#Project
 Library System Management - SDG 4 (Quality Education)
 Libraries play a crucial role in providing access to knowledge, research materials, and educational resources. However, traditional library management methods, such as book tracking, often lead to inefficiencies and data loss when handling large volumes of books. This challenge becomes even more complex as the number of students increases across different educational levels, including middle schools, high schools, and universities. Each level of education has distinct library management needs, whether in terms of book collections, borrowing systems, or access to digital learning resources.
 
@@ -12,7 +12,7 @@ To address these challenges, a solution that accommodates the needs of every edu
 
 
 
-Kelompok 10
+#Kelompok 10
 
 
 2702221223 - Rhevell Herliman Senewe
