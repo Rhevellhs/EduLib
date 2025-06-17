@@ -13,9 +13,14 @@ To address these challenges, a solution that accommodates the needs of every edu
 
 
 Kelompok 10
-2702221223 - Rhevell
+2702221223 - Rhevell Herliman Senewe
+
 2702262034 - Andi Achmad Yanuar
+
 2702283644 - Jackson
+
 2702328970 - Richie Eleazar Isjwara
+
 2702348505 - Marcellino Gabriel Asmoro
+
 2702384126 - Darrell Samrinner Lie
