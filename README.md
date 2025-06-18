@@ -26,3 +26,22 @@ To address these challenges, a solution that accommodates the needs of every edu
 2702348505 - Marcellino Gabriel Asmoro
 
 2702384126 - Darrell Samrinner Lie
+
+
+
+
+# Panduan Dalam akses
+
+
+Admin
+ID = AD001
+Password  =  123
+
+Visitor
+ID = AD001
+Password  =  123
+
+
+Librarian
+ID  = LB003
+Password  =  123
